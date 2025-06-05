@@ -91,8 +91,8 @@ error_404:
 #   - grayout: whether to enable a hover effect on the logo
 logo:
   enabled: true
-  width: 172
-  height: 172
+  width: 155
+  height: 155
   url: soralcf.jpg
   gravatar: false
   grayout: false
